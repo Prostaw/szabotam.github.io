@@ -1,1 +1,62 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #343a40; /* Grey background */
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background:#001219 /* Black */
+    color: #94d2bd; /* Light blue for the text */
+    padding: 2rem;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+    border-bottom: 3px solid #9370DB; /* Lighter purple border */
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: #E6E6FA; /* Lavender for title */
+}
+
+section {
+    padding: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #E0BBE4; /* Soft purple for paragraphs */
+}
+
+a {
+    color: #9370DB; /* Medium purple for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #BA55D3; /* Darker purple on hover */
+}
+
+.content-box {
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 80%;
+    max-width: 600px;
+    background-color: rgba(75, 0, 130, 0.7); /* Transparent purple */
+    border: 2px solid #8A2BE2; /* Bright purple border */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(75, 0, 130, 0.5); /* Purple glow */
+}
+
+footer {
+    background-color: #001219; /* Black */
+    color: #e9d8a6; /* Light yellow */
+    padding: 1rem;
+    border-top: 3px solid #9370DB;
+    text-align: center;
+}
 
