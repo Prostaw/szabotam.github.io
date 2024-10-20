@@ -8,11 +8,11 @@ body {
 }
 
 header {
-    background:#001219 /* Black */
+    background: #001219 /* Black */
     color: #94d2bd; /* Light blue for the text */
     padding: 2rem;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
-    border-bottom: 3px solid #9370DB; /* Lighter purple border */
+    border-bottom: 3px solid #adb5bd; /* Lighter grey border */
 }
 
 h1 {
@@ -56,7 +56,7 @@ footer {
     background-color: #001219; /* Black */
     color: #e9d8a6; /* Light yellow */
     padding: 1rem;
-    border-top: 3px solid #9370DB;
+    border-top: 3px solid #adb5bd;
     text-align: center;
 }
 
