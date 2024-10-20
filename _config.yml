@@ -1,11 +1,8 @@
----
-layout: default
-title: Welcome to Website!
----
-
-# Welcome to My Retro 80s World
-
-I'm a data visualization expert with a strong passion about sports, business and politics. I use my creativity and knowledge to transform complex data into easy to understand, actionable insights.
-
-[My GitHub](https://github.com/prostaw)
-
+theme: minima  # or your chosen theme
+title: "Tamas Szabo"
+description: "Data Analyst"
+markdown: kramdown
+sass:
+  style: compressed
+include:
+  - assets
