@@ -11,3 +11,5 @@ I'm a data visualization expert with a strong passion about sports, business and
 
 
 [My GitHub](https://github.com/prostaw)
+
+&copy; 2024 Tamas Szabo. All rights reserved.
